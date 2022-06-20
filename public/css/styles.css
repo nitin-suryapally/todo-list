@@ -1,0 +1,24 @@
+/* html {
+   
+} */
+
+
+body {
+    text-align: center;
+    background: linear-gradient(65deg, #A683E3 50%, #E4E9FD 50%);
+    padding: 15% 15% 30% 15%;
+}
+
+.heading{
+    background-color: #A683E3;
+    width: 40%;
+    margin: left;
+    margin-left: 30%;
+    margin-bottom: 30px;
+}
+
+.checklist{
+    background-color: white;
+    width: fit-content;
+    margin-left: 40%;
+}
